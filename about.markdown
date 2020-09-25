@@ -1,18 +1,8 @@
 ---
 layout: page
-title: About
+title: Blog  của Minh
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Tôi là Trần Công Minh , hiện đang là sinh viên năm 3 của Trường Đại Học Công Nghệ - Đại Học Quốc Gia Hà Nội  
+Sở thích : chơi thể thao và nghe nhạc  
+Cung : Cử giải
